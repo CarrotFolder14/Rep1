@@ -1,3 +1,6 @@
 Menu
+<<<<<<< HEAD
 edit1
 edit2
+=======
+>>>>>>> parent of 998f89b (added edit1)
